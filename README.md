@@ -1,5 +1,6 @@
 # WinGDI.exe
 Dangerous version and peaceful version (Windows xp and higher)
+
 Опасная версия и мирная версия (Windows XP и выше)
 
 
